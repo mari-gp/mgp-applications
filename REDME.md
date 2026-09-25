@@ -1,7 +1,7 @@
 # Información 
-- Nombre:
-- No. Control:
-- Grupo:
+- Nombre: Maricruz Galván Pérez
+- No. Control: 1224100608
+- Grupo: GTI174
 
 ## Especificaciones del proyecto
 | nombre del rpoyecto | Framework | Versión |
@@ -25,3 +25,5 @@ Para que la aplicación funcione se necesitan las siguientes variables:
 
 <img src="https://5.imimg.com/data5/SELLER/Default/2024/2/385249333/LN/JE/OV/149478051/it-infrastructure-services-500x500.jpg" width="100%" align="center">
 
+## Descripción general
+El objetivo del proyecto es comprender GIT
